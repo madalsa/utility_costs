@@ -1,4 +1,4 @@
-Year,Utility ID,Utility Name,Service Type,State,Revenue (thousand$)_com,Sales (MWh)_com,Customers_com,Revenue (thousand$)_ind,Sales (MWh)_ind,Customers_ind,Revenue (thousand$)_res,Sales (MWh)_res,Customers_res
+Year,Utility ID,Utility Name,Service Type,State,Rev_com,Sales_com,Cust_com,Rev_ind,Sales_ind,Cust_ind,Rev_res,Sales_res,Cust_res
 2005,733.0,Appalachian Power Co,Bundled,WV,187320.0,3656339.0,63253.0,166355.0,4504844.0,2406.0,309082.0,5764671.0,368845.0
 2005,1167.0,Baltimore Gas & Electric Co,Bundled,MD,336474.0,3450906.0,108056.0,438428.0,5010105.0,7139.0,1066503.0,13759809.0,1079043.0
 2005,1167.0,Baltimore Gas & Electric Co,Delivery,MD,2189.0,66412.0,1011.0,131280.0,10765573.0,2964.0,23.0,721.0,45.0
